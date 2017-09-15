@@ -1,0 +1,10 @@
+{
+ "dependencies": {
+  "grunt-cli": "^1.2.0"
+ },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/MichelAMZ/Grunt.git"
+ },
+ "license": "none"
+}
