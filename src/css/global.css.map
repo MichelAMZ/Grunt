@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACA,KAAK,ECAU,OAAO;;;ADGvB,EAAE;EACD,KAAK,ECHY,OAAO;;;ACDxB,CAAE;EACD,SAAS,EAAE,IAAI;;;ACDhB,EAAG;EACF,SAAS,EAAE,IAAI",
+"sources": ["../scss/custom.scss","../scss/variables.scss","../scss/caroussel.scss","../scss/slider.scss"],
+"names": [],
+"file": "global.css"
+}

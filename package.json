@@ -1,10 +1,15 @@
 {
- "dependencies": {
-  "grunt-cli": "^1.2.0"
- },
- "repository": {
-  "type": "git",
-  "url": "https://github.com/MichelAMZ/Grunt.git"
- },
- "license": "none"
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "install": "^0.10.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
